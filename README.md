@@ -1,5 +1,5 @@
 # Website quản lý thu nhập cá nhân cho Cán bộ và Giảng viên UDCK
-## I.Giới thiệu
+## I.Giới thiệu 
 Trong quá trình chuyển đổi số thì việc tính lương và quản lý thu nhập của nhân viên trong các cơ quan, tổ chức doanh nghiệp hiện đang là vấn đề rất được quan tâm. Hiện tại trên thị trường đã xuất hiện các phần mềm quản lý cho doanh nghiệp vừa và nhỏ và có các công cụ hỗ trợ tính lương như ECount, FastWork và Base HMR+… Tuy nhiên theo tìm hiểu, các cơ quan – tổ chức và doanh nghiệp chỉ có 2 hướng quản lý thu nhập:
 - Thứ nhất là quản lý lương bằng phần mềm Excel, sau đó gửi bảng lương cho ngân hàng và ngân hàng sẽ gửi tin nhắn SMS hoặc thông qua ứng dụng của ngân hàng về số tiền lương nhận được đến từng CB-GV.
 - Thứ hai là quản lý, tính thu nhập của từng nhân viên thông qua phần mềm chuyên dụng nhưng không thể gửi chi tiết lương đến cho từng nhân viên mà vẫn chỉ gửi bảng lương đó cho bên ngân hàng để ngân hàng chi trả lương.
